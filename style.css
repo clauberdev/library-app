@@ -47,7 +47,6 @@ input[type=submit] {
 
 .book-form {
     border: 2px solid #eee;
-    display: none;
     justify-content: center;
     flex-direction: column;
     width: 30%;

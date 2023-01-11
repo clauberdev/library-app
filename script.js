@@ -23,14 +23,14 @@ const newBook1 = new Book(
     "Brian W. Kernighan - Dennis Ritchie",
     "C Programming Language",
     274,
-    "Yes"
+    "Read"
 )
 
 const newBook2 = new Book(
     " H. M. Deitel",
     "C++: Como Programar",
     1208,
-    "No"
+    "Not Read"
 )
 
 addBookToLibrary(newBook1)
